@@ -53,7 +53,7 @@ Two different group of algorithms are provided:
 *  _Chain partitioning_ performs partitioning of simple chains in an effective way without relying on any graph operation.
 *  _Tree partitioning_ partitions trees either by using chain partitioning as a subroutine or by a more-direct bottom-up traversal.
 
-The algorithm implementations are available under [alg](alg).
+The algorithm implementations are available under [/alg/](alg).
 The related tests files are stored in [/tests/chain/](tests/chain/) for the chain partitioning and in [/tests/tree/](tests/tree/)
 for the trees.
 
@@ -77,7 +77,7 @@ nighttime operation due to the different traffic patterns.
 The used inputs for the tests are also visualized, see the following two input trees:
 
 ![use case graph daytime](use_case/ext/daytime.png)
-![use case graph nighttime](use_case/ext/daytime.png)
+![use case graph nighttime](use_case/ext/nighttime.png)
 
 The optimal partitioning of the applications for the two traffic patterns are the following:
 
