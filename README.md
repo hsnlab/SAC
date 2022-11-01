@@ -6,6 +6,8 @@
 This repository collects the prototype implementations and belonging test files of our Serverless Application Composition algorithms.
 These algorithms are fundamentally performing the partitioning of a cloud-native application's basic components (serverless functions),
 where the resulted partition blocks designate the deployment artifacts (assembled functions) providing cost-minimal operation in the cloud.
+By these means, a serverless applications can be assembled from its basic componenets to achieve a cost-efficient operation over any cloud
+platform.
 
 
 ## Applied Method
