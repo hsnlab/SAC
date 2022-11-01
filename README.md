@@ -76,14 +76,12 @@ Under [/use_case/](use_case/) the test input files and validations script can be
 The imagined application represents a backend application for a parking lot monitoring and management service for which the application
 characteristics, such as the invocation frequencies and function execution times, are alternated between the typical daytime and 
 nighttime operation due to the different traffic patterns.
-The used inputs for the tests are also visualized, see the following two input trees:
+The used inputs for the tests are also visualized, see the following two input trees for the nighttime traffic pattern:
 
-![use case graph daytime](use_case/ext/daytime.png)
 ![use case graph nighttime](use_case/ext/nighttime.png)
 
 The optimal partitioning of the applications for the two traffic patterns are the following:
 
-![opt partition daytime](use_case/ext/daytime_opt_part.png)
 ![opt partition nighttime](use_case/ext/nighttime_opt_part.png)
 
 
