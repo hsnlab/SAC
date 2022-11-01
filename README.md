@@ -62,7 +62,7 @@ ultimately compared to each other and to the result(s) of straightforward greedy
 search through the state space.
 Moreover, the running time statistics of the different implementations are also provided.
 
-The different tests can be performed by uncommenting the relevant line in the _main_ section of the validations scripts.
+The different tests can be performed by uncommenting the relevant lines in the _main_ section of the validations scripts.
 
 ```sh
 python3.10 validation_chain.py
@@ -72,7 +72,7 @@ python3.10 validation_tree.py
 
 ## Example Use Case
 
-![use case arch](use_case/ext/use_case_arch.png)
+
 
 Under [/use_case/](use_case/) the test input files and validations script can be found for our example use case applications.
 The imagined application represents a backend application for a parking lot monitoring and management service for which the application
