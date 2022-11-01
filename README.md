@@ -73,6 +73,7 @@ python3.10 validation_tree.py
 ## Example Use Case
 
 
+![use case arch](use_case/ext/use_case_arch.png)
 
 Under [/use_case/](use_case/) the test input files and validations script can be found for our example use case applications.
 The imagined application represents a backend application for a parking lot monitoring and management service for which the application
