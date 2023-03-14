@@ -12,6 +12,12 @@ where the resulted partition blocks designate the deployment artifacts (assemble
 By these means, a serverless application can be assembled from its basic components on demand to achieve a cost-efficient operation with
 respect to the actual application characteristics.
 
+Our paper has been accepted as a full paper for [2023 IEEE/IFIP Network Operations and Management Symposium (NOMS'23)](https://noms2023.ieee-noms.org/).
+
+If you use these algorithms for a publication or project, please cite the accompanying paper:
+
+J. Czentye, I. Pelle and B. Sonkoly, "Cost-optimal Operation of Latency Constrained Serverless Applications: From Theory to Practice," NOMS 2023 IEEE/IFIP Network Operations and Management Symposium, Miami, FL, USA, 2023, pp. 1-10.
+
 
 ## Installation
 
