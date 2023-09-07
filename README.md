@@ -3,6 +3,9 @@
 [Overview](#overview) | [Installation](#installation) | [Input/Output](#inputoutput) | [Usage and Tests](#usage-and-tests) | 
 [Example Use Case](#example-use-case) | [Multiprocessing-based Platform Computation Model](#multiprocessing-based-platform-computation-model) | [License](#license)
 
+## Note
+
+All of these algorithms are also implemented and integrated into our unified library [SLAMBUC](https://github.com/hsnlab/SLAMBUC).
 
 ## Overview
 
@@ -17,7 +20,6 @@ Our paper has been accepted as a full paper for [2023 IEEE/IFIP Network Operatio
 If you use these algorithms for a publication or project, please cite the accompanying paper:
 
 J. Czentye, I. Pelle and B. Sonkoly, "Cost-optimal Operation of Latency Constrained Serverless Applications: From Theory to Practice," NOMS 2023 IEEE/IFIP Network Operations and Management Symposium, Miami, FL, USA, 2023, pp. 1-10.
-
 
 ## Installation
 
