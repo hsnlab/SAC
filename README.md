@@ -5,7 +5,10 @@
 
 ## Note
 
-All of these algorithms are also implemented and integrated into our unified library [SLAMBUC](https://github.com/hsnlab/SLAMBUC).
+> [!IMPORTANT]
+> This project is obsoleted by [SLAMBUC](https://github.com/hsnlab/SLAMBUC).
+> 
+> All of these algorithms are also implemented and integrated into our unified library.
 
 ## Overview
 
